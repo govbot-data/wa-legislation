@@ -44,7 +44,7 @@ jobs:
           fi
 
       - name: Run formatter action
-        uses: windy-civi/toolkit/actions/format@main
+        uses: windy-civi/toolkit/actions/format@feat/decouple-format-from-scrape
         with:
           state: ${{ env.STATE_CODE }}
           github-token: ${{ secrets.GITHUB_TOKEN }}

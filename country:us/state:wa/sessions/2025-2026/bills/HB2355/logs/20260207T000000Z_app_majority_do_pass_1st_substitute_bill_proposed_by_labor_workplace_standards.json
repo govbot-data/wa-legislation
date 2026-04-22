@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "APP - Majority; do pass 1st substitute bill proposed by Labor & Workplace Standards.",
+    "date": "2026-02-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2355"
+}

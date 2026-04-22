@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On motion, referred to Rules.",
+    "date": "2026-03-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR 8408"
+}

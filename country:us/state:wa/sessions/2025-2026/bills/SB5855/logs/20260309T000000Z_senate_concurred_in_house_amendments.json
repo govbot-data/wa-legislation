@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate concurred in House amendments.",
+    "date": "2026-03-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 5855"
+}

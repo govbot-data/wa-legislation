@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "First reading, referred to Community Safety (Not Officially read and referred until adoption of Introduction report).",
+    "date": "2026-01-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2156"
+}

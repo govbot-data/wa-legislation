@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "TR - Majority; do pass.",
+    "date": "2026-03-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 6170"
+}

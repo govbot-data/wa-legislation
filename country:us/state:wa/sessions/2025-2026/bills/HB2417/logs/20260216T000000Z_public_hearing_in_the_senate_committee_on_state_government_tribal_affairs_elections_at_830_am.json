@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing in the Senate Committee on State Government, Tribal Affairs & Elections at 8:30 AM.",
+    "date": "2026-02-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2417"
+}

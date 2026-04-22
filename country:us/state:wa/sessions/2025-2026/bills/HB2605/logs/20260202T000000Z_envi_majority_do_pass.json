@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "ENVI - Majority; do pass.",
+    "date": "2026-02-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2605"
+}

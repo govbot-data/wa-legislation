@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Third reading, adopted.",
+    "date": "2026-01-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR 4406"
+}

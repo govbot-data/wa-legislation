@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Floor amendment(s) adopted.",
+    "date": "2026-02-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2575"
+}

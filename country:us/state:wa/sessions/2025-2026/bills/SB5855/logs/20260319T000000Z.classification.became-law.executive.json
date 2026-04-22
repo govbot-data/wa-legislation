@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Effective date 3/19/2026.",
+    "date": "2026-03-19",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 5855"
+}

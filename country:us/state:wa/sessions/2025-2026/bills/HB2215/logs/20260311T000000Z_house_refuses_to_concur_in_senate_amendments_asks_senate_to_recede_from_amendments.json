@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.",
+    "date": "2026-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2215"
+}

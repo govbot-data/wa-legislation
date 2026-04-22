@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public hearing scheduled, but not heard in the House Committee on Finance at 8:00 AM.",
+    "date": "2026-02-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2730"
+}

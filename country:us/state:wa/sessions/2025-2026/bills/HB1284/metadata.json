@@ -180,6 +180,7 @@
     "division_id": "ocd-division/country:us/state:wa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T21:47:03Z"
+    "logs_latest_update": "2026-07-21T21:47:03Z",
+    "text_extraction_latest_update": "2026-07-21T22:18:39.286119Z"
   }
 }
